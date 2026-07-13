@@ -142,13 +142,17 @@ An RFID-based smart vehicle access system developed using Arduino.
 
 # 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/usha-nagirikatakam/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Nagirikatakam%20Usha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/usha-nagirikatakam-4baa3b359/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Usha%20Nagirikatakam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="mailto:nagirikatakamusha@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-nagirikatakamusha%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://github.com/ushanagirikatakam01" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-ushanagirikatakam01-181717?style=for-the-badge&logo=github&logoColor=white"/>
